@@ -1,2 +1,5 @@
 # cpcfi_problems
-CPCFI's athletes problems solved
+
+- NAME:
+- GENERATION NUMBER:
+- MOST DIFFICULT TOPIC: 
