@@ -1,9 +1,9 @@
 # cpcfi_problems
 
-- NAME:
-- CODEFORCES USER: 
-- GENERATION NUMBER:
-- MOST DIFFICULT TOPIC: 
+- NAME: Ruy Cabello
+- CODEFORCES USER: ruycabello
+- GENERATION NUMBER: 2
+- MOST DIFFICULT TOPIC: dynamic programming, graphs
 
 # How to use this repo?
 
